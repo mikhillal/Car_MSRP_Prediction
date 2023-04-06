@@ -27,4 +27,4 @@ pip install pandas numpy matplotlib scikit-learn
 
 Then, start Jupyter Notebook and open the Car_MSRP_Prediction.ipynb file:
 
-Car_MSRP_Prediction.ipynb
+MSRP_Prediction.ipynb
